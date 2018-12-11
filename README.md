@@ -1,15 +1,15 @@
 # CS412-HW5
-**Contains all files required to be submitted for the coding part of hw5
+Contains all files required to be submitted for the coding part of hw5
 
 Name: Rushit Shah
 CS412 - Intro to ML - HW5
 Quora Insincere Questions Classification
 
-**TL;DR  run ‘test.py’
+TL;DR  run ‘test.py’
 
 The following two cases were tested - 
-**1. Imbalanced Data
-**2. Balanced Data
+1. Imbalanced Data
+2. Balanced Data
 
 In each case, 5 classifiers were trained and tested - 
 1. Majority Classifier (always predict 0)
