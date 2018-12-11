@@ -1,5 +1,7 @@
 # CS412-HW5
 Contains all files required to be submitted for the coding part of hw5
+ 
+NOTE: My best results were obtained using an RNN. The model which I trained is too big (170MB) a file to upload yo either gradescope/github. Its results are illustrated in the jupyter notebook though.
 
 Name: Rushit Shah
 CS412 - Intro to ML - HW5
