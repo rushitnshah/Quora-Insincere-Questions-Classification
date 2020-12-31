@@ -31,7 +31,7 @@ Thus, the file(s)
 <br />
 <p align="left">
   <a href="https://github.com/rushitnshah/Quora-Insincere-Questions-Classification/blob/master/Result_Summary.png">
-    <img src="Result_Summary.png" alt="Logo" width="200" height="200">
+    <img src="Result_Summary.png" alt="Logo" width="500" height="500">
   </a>
   </p>
 </p>
